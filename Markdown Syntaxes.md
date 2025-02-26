@@ -1,7 +1,3 @@
----
-cssclasses:
-  - slides
----
 # Markdown Syntaxes
 ## 1 Regulars
 The syntaxes that can be used in all sorts of Markdown files and will be parsed by any markdown parsers 
